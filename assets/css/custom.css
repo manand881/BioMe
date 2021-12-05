@@ -2,3 +2,9 @@
     width: 100%;
     clip-path: circle(9rem at center);
 }
+
+.CenterBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
