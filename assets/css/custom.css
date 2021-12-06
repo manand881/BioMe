@@ -8,3 +8,7 @@
     align-items: center;
     justify-content: center;
 }
+
+.center-justified {
+    text-align: justify;
+}
